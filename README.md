@@ -27,4 +27,4 @@ A simple calculator application developed using **C++ and Qt Widgets**.
 2. Select a Qt Desktop kit.
 3. Build the project.
 4. Run the application.
-5. 
+   
